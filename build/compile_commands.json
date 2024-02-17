@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/searchLight/Shelter/Projects/C++/Shell/HttpServer/build",
+  "command": "/usr/bin/c++ -g -o CMakeFiles/HttpServer.dir/server.cpp.o -c /home/searchLight/Shelter/Projects/C++/Shell/HttpServer/server.cpp",
+  "file": "/home/searchLight/Shelter/Projects/C++/Shell/HttpServer/server.cpp",
+  "output": "CMakeFiles/HttpServer.dir/server.cpp.o"
+},
+{
+  "directory": "/home/searchLight/Shelter/Projects/C++/Shell/HttpServer/build",
+  "command": "/usr/bin/c++ -g -o CMakeFiles/MyLib.dir/HttpServer.cpp.o -c /home/searchLight/Shelter/Projects/C++/Shell/HttpServer/HttpServer.cpp",
+  "file": "/home/searchLight/Shelter/Projects/C++/Shell/HttpServer/HttpServer.cpp",
+  "output": "CMakeFiles/MyLib.dir/HttpServer.cpp.o"
+}
+]

@@ -1,0 +1,4 @@
+/home/searchLight/Shelter/Projects/C++/Shell/HttpServer/build/CMakeFiles/HttpServer.dir
+/home/searchLight/Shelter/Projects/C++/Shell/HttpServer/build/CMakeFiles/MyLib.dir
+/home/searchLight/Shelter/Projects/C++/Shell/HttpServer/build/CMakeFiles/edit_cache.dir
+/home/searchLight/Shelter/Projects/C++/Shell/HttpServer/build/CMakeFiles/rebuild_cache.dir
